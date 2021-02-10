@@ -11,7 +11,8 @@ Repositório da cadeira *Sistemas Distribuídos* no ano lectivo 2020/21
 
 |Trabalho Laboratorial|Peso|Nota Mínima|
 |-|-|-|
-||||
+|1º Trabalho|50%||
+|2º Trabalho|50%||
 
 Nota: Nota final não pode ser maior que nota do Exame + 3
 
